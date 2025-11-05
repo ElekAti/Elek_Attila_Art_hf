@@ -1,0 +1,10 @@
+20:48:22 **** Incremental Build of configuration Debug for project arthf4 ****
+make -j16 all 
+arm-none-eabi-size  arthf4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  39188	    344	   9040	  48572	   bdbc	arthf4.elf
+Finished building: default.size.stdout
+ 
+
+20:48:23 Build Finished. 0 errors, 0 warnings. (took 721ms)
+
